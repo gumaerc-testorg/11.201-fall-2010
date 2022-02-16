@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation on comprehensive planning.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-201-gateway-to-the-profession-of-planning-fall-2010/671aa7086892adffc3298bca3dbf4b35_MIT11_201F10_ses16_slides.pdf
+file: /media/courses/11-201-gateway-to-the-profession-of-planning-fall-2010/671aa7086892adffc3298bca3dbf4b35_MIT11_201F10_ses16_slides.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: For Comprehensive Planning
 uid: 671aa708-6892-adff-c329-8bca3dbf4b35
