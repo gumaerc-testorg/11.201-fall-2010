@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bd1bffec-c3e5-7852-e57f-3617ac39be0d
 resourcetype: Document
 title: The Necessity of Planning/Response to the Depression
 uid: 01f43f0d-cb82-a4e1-b030-ed14ac453b6d

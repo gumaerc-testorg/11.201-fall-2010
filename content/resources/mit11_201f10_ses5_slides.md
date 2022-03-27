@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bd1bffec-c3e5-7852-e57f-3617ac39be0d
 resourcetype: Document
 title: 'Regions: What Do They Mean In America?'
 uid: 8ebcdc88-e945-f271-1acf-740ad793729a

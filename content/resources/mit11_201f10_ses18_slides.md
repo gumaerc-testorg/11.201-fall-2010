@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bd1bffec-c3e5-7852-e57f-3617ac39be0d
 resourcetype: Document
 title: Critics of Rational Comprehensive Planning
 uid: 3073e930-e241-61c5-8328-eed3d42a38f6

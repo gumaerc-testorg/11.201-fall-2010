@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bd1bffec-c3e5-7852-e57f-3617ac39be0d
 resourcetype: Document
 title: Welcome to Gateway
 uid: 747f7713-fbb6-f7ff-fef4-f56e4a7b0b49

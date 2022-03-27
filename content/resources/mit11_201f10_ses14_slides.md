@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bd1bffec-c3e5-7852-e57f-3617ac39be0d
 resourcetype: Document
 title: Technology & Planning
 uid: 6d58eeab-f4a1-ccdb-7a5a-da216d258149

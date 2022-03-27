@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bd1bffec-c3e5-7852-e57f-3617ac39be0d
 resourcetype: Document
 title: Measurement/Expert Knowledge/Professionalism
 uid: 82b784b8-6be0-982e-c750-ae8096c2b442
