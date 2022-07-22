@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, expectations, requirements, course structure,
+  assignments and grades, individual responses, essay assignments, and group responses.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 737b7202-9ab0-81df-a723-0b2830eb46bc
 ---
@@ -114,7 +119,7 @@ On four Fridays during the semester you will meet with your group to discuss tha
 
 Students are expected to participate in group and class discussions. Participating in class and discussing ideas is an important part of your grade, and, more importantly, your education as a student of planning.
 
-Students are expected to read the materials listed under the "[Required Readings]({{< baseurl >}}/pages/readings)" section of the syllabus prior to coming to the class for which the readings are assigned. There is no textbook.
+Students are expected to read the materials listed under the "{{% resource_link e671e6d1-c83e-0b90-ac6a-a11cbb0dc25d "Required Readings" %}}" section of the syllabus prior to coming to the class for which the readings are assigned. There is no textbook.
 
 Name cards will be given to you on the first day of class. Students are expected to bring their name cards to every class and keep them visible to the lecturer for the duration of each class.
 
