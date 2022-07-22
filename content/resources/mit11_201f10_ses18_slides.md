@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/3073e930e2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Critics of Rational Comprehensive Planning
 uid: 3073e930-e241-61c5-8328-eed3d42a38f6
 ---
 Lecture presentation on rational comprehensive planning.
-

@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/6d58eeabf4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Technology & Planning
 uid: 6d58eeab-f4a1-ccdb-7a5a-da216d258149
 ---
 Lecture presentation on modeling transportation and land use.
-

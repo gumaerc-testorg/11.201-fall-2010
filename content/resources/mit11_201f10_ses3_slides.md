@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/9c1a043ac5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Olmstead Jr. vs. Marsh
 uid: 9c1a043a-c51b-6b94-bba1-546d2545aaef
 ---
 Lecture presentation on city planning.
-

@@ -6,6 +6,7 @@ file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/01f43f0dcb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Necessity of Planning/Response to the Depression
 uid: 01f43f0d-cb82-a4e1-b030-ed14ac453b6d
 ---
 Lecture presentation on regional blocs, regional planning, and legal zoning.
-

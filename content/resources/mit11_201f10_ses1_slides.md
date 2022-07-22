@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/747f7713fb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Welcome to Gateway
 uid: 747f7713-fbb6-f7ff-fef4-f56e4a7b0b49
 ---
 Introductory lecture presentation on professional planning.
-

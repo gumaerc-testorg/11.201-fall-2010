@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/671aa70868
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: For Comprehensive Planning
 uid: 671aa708-6892-adff-c329-8bca3dbf4b35
 ---
 Lecture presentation on comprehensive planning.
-
