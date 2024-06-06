@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on city planning.
 file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/9c1a043ac51b6b94bba1546d2545aaef_MIT11_201F10_ses3_slides.pdf
+file_size: 752328
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
