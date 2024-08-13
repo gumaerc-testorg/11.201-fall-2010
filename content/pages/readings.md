@@ -179,7 +179,7 @@ The necessity of planning/response to the Depression
 
 Keynes, John Maynard. "Concluding Notes." In *The General Theory of Employment, Interest and Money*. Martino Fine Books, 2011. ISBN: 9781891396687.
 
-Klosterman, Richard E. "Arguments for and Against Planning." *The Town Planning Review* 56, no. 1 (January 1985): 5-20. ([PDF](http://www.urban-is.de/Annex/HTML/Kap1/F%FCr&Wider-Planung/Klosterman-for&against_planning.pdf))
+Klosterman, Richard E. "Arguments for and Against Planning." *The Town Planning Review* 56, no. 1 (January 1985): 5-20. ([PDF](https://www.researchgate.net/profile/Richard-Klosterman/publication/233870072_Arguments_for_and_Against_Planning/links/561e875c08aef097132cadad/Arguments-for-and-Against-Planning.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19))
 
 Ward, Stephen V. "War, Reconstruction and Depression I: The Major Traditions." In *Planning the Twentieth-­Century City: The Advanced Capitalist World*. Academy Press, 2002, pp. 81-126. ISBN: 9780471490982.
 
@@ -289,7 +289,7 @@ Seers, Dudley. "The Meaning of Development." *IDS Communication*, no. 44. 1969.
 
 Escobar, Arturo. "The Problematization of Poverty: The Tale of Three Worlds and Development." In *Encountering Development: The Making and Unmaking of the Third World*. Princeton, NJ: Princeton University Press, 1994, pp. 21-54. ISBN: 9780691001029.
 
-Ingham, Barbara. "[The Meaning of Development: Interactions Between "New" and "Old" Ideas](http://dx.doi.org/10.1016/0305-750X(93)90084-M)." *World Development* 21, no. 11 (November 1993): 1803-1821.
+Ingham, Barbara. "[The Meaning of Development: Interactions Between "New" and "Old" Ideas](http://dx.doi.org/10.1016/0305-750X%2893%2990084-M)." *World Development* 21, no. 11 (November 1993): 1803-1821.
 
 ### Recommended Readings
 
@@ -541,7 +541,7 @@ Salet, Willem, and Andreas Faludi. "Three Approaches to Strategic Spatial Planni
 
 Barnett, Jonathan. "The Fractured Metropolis." *The Fractured Metropolis: Improving the New City, Restoring the Old City, Reshaping the Region*. Westview Press, 1006, pp. 1-13. ISBN: 9780064302227.
 
-Tendler, Judith. "[What Ever Happened to Poverty Alleviation?](http://dx.doi.org/10.1016/0305-750X(89)90166-6)" *World Development* 17, no. 7 (1989): 1033-1044.
+Tendler, Judith. "[What Ever Happened to Poverty Alleviation?](http://dx.doi.org/10.1016/0305-750X%2889%2990166-6)" *World Development* 17, no. 7 (1989): 1033-1044.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 9: Is planning the "Handmaiden" of capitalism?**
@@ -685,7 +685,7 @@ e-Governance (Joe Ferreira)
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262691994) Sanya, Bishwapriya, and Donald A. Schön. "Information Technology and Urban Poverty: The Role of Public Policy." In [*High Technology and Low-Income Communities: Prospects for the Positive Use of Advanced Information Technology*](https://mitpress.mit.edu/9780262691994). Edited by Donald A. Schön, Bishwapriya Sanyal, and William J. Mitchell. MIT Press, 1999. ISBN: 9780262691994.
 
-Fountain, J. E. "The Virtual State: Transforming American Government?" *National Civic Review* 90, no. 3 (2001): 241-52. ([PDF](http://academic.udayton.edu/richardghere/org%20theory%202010/ot%202011/pdf/Fountain_Jane_E.pdf))
+Fountain, J. E. "The Virtual State: Transforming American Government?" *National Civic Review* 90, no. 3 (2001): 241-52. ([PDF](https://www.belfercenter.org/sites/default/files/legacy/files/Fountain-2001-National_Civic_Review.pdf))
 
 Cecchini, Simone, and Monica Raina. "Electronic Government and the Rural Poor: The Case of Gyandoot." *Information Technologies and International Development* 2, no. 2 (2004): 65-75. ([PDF](https://www.researchgate.net/publication/24090515_Electronic_Government_and_the_Rural_Poor_The_Case_of_Gyandoot))
 
