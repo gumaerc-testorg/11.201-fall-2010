@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on comprehensive planning.
-file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/671aa7086892adffc3298bca3dbf4b35_MIT11_201F10_ses16_slides.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-to-the-profession-of-planning-fall-2010/671aa7086892adffc3298bca3dbf4b35_MIT11_201F10_ses16_slides.pdf
 file_size: 71834
 file_type: application/pdf
 learning_resource_types:
