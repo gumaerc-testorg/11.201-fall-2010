@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the history of regional planning.
-file: /ol-ocw-studio-app/courses/11-201-gateway-to-the-profession-of-planning-fall-2010/575d73eb12a484cfb14beaecea4d2b28_MIT11_201F10_ses6_slides.pdf
+file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/575d73eb12a484cfb14beaecea4d2b28_MIT11_201F10_ses6_slides.pdf
 file_size: 7250822
 file_type: application/pdf
 learning_resource_types:
