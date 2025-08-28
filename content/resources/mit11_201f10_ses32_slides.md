@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on quantitative research, qualitative research,
   the scientific method, and case studies.
-file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/82b784b86be0982ec750ae8096c2b442_MIT11_201F10_ses32_slides.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-to-the-profession-of-planning-fall-2010/82b784b86be0982ec750ae8096c2b442_MIT11_201F10_ses32_slides.pdf
 file_size: 117707
 file_type: application/pdf
 learning_resource_types:
